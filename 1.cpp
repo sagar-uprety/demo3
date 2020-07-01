@@ -5,7 +5,7 @@ int main()
 {
     int n;
 
-    cout << "Enter a positive integer: ";
+    cout << "Enter a negative integer: ";
     cin >> n;
 
     for (int i = 1; i <= 10; ++i) {
