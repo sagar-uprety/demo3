@@ -3,7 +3,7 @@ using namespace std;
 
 main() {
     
-    string name= "Hello Friend";
+    string fame= "Hello Friend";
     cout<<name;
 }
 
